@@ -8,4 +8,4 @@ It's only some simple simulation on a function f(x,y)
 
 I wil give a new idea that mix up two method in paper below.
 
-![alt text](C:/Users/aronl/Desktop/python/local_saddle/gd_vs_cesp.png)
+![alt text](gd_vs_cesp.png)
